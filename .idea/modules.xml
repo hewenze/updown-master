@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/updown-common/updown-common.iml" filepath="$PROJECT_DIR$/updown-common/updown-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager/updown-manager.iml" filepath="$PROJECT_DIR$/updown-manager/updown-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager/updown-manager-dao/updown-manager-dao.iml" filepath="$PROJECT_DIR$/updown-manager/updown-manager-dao/updown-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager/updown-manager-interface/updown-manager-interface.iml" filepath="$PROJECT_DIR$/updown-manager/updown-manager-interface/updown-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager/updown-manager-pojo/updown-manager-pojo.iml" filepath="$PROJECT_DIR$/updown-manager/updown-manager-pojo/updown-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager/updown-manager-service/updown-manager-service.iml" filepath="$PROJECT_DIR$/updown-manager/updown-manager-service/updown-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-manager-web/updown-manager-web.iml" filepath="$PROJECT_DIR$/updown-manager-web/updown-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-parent.iml" filepath="$PROJECT_DIR$/updown-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-search/updown-search.iml" filepath="$PROJECT_DIR$/updown-search/updown-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-search/updown-search-interface/updown-search-interface.iml" filepath="$PROJECT_DIR$/updown-search/updown-search-interface/updown-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-search/updown-search-service/updown-search-service.iml" filepath="$PROJECT_DIR$/updown-search/updown-search-service/updown-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-search-web/updown-search-web.iml" filepath="$PROJECT_DIR$/updown-search-web/updown-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-sso/updown-sso.iml" filepath="$PROJECT_DIR$/updown-sso/updown-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-sso/updown-sso-interface/updown-sso-interface.iml" filepath="$PROJECT_DIR$/updown-sso/updown-sso-interface/updown-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-sso/updown-sso-service/updown-sso-service.iml" filepath="$PROJECT_DIR$/updown-sso/updown-sso-service/updown-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-sso-web/updown-sso-web.iml" filepath="$PROJECT_DIR$/updown-sso-web/updown-sso-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-user/updown-user.iml" filepath="$PROJECT_DIR$/updown-user/updown-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-user/updown-user-interface/updown-user-interface.iml" filepath="$PROJECT_DIR$/updown-user/updown-user-interface/updown-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-user/updown-user-service/updown-user-service.iml" filepath="$PROJECT_DIR$/updown-user/updown-user-service/updown-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updown-user-web/updown-user-web.iml" filepath="$PROJECT_DIR$/updown-user-web/updown-user-web.iml" />
+    </modules>
+  </component>
+</project>

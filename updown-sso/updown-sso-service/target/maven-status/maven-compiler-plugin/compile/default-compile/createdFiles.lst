@@ -1,0 +1,6 @@
+com\updown\sso\jedis\JedisClientPool.class
+com\updown\sso\service\impl\UserRegisterServiceImpl.class
+com\updown\sso\jedis\JedisClient.class
+com\updown\sso\service\impl\UserExitServiceImpl.class
+com\updown\sso\service\impl\UserLoginServiceImpl.class
+com\updown\sso\jedis\JedisClientCluster.class

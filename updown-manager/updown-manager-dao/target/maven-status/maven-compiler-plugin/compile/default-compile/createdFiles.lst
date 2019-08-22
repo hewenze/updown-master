@@ -1,0 +1,4 @@
+com\updown\mapper\FileMapper.class
+com\updown\mapper\TaskMapper.class
+com\updown\mapper\TestMapper.class
+com\updown\mapper\UserMapper.class

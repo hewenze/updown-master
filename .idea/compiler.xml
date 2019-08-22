@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="updown-common" />
+        <module name="updown-manager-dao" />
+        <module name="updown-manager-interface" />
+        <module name="updown-manager-pojo" />
+        <module name="updown-manager-service" />
+        <module name="updown-manager-web" />
+        <module name="updown-search-interface" />
+        <module name="updown-search-service" />
+        <module name="updown-search-web" />
+        <module name="updown-sso-interface" />
+        <module name="updown-sso-service" />
+        <module name="updown-sso-web" />
+        <module name="updown-user-interface" />
+        <module name="updown-user-service" />
+        <module name="updown-user-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="updown-common" target="1.8" />
+      <module name="updown-manager" target="1.8" />
+      <module name="updown-manager-dao" target="1.8" />
+      <module name="updown-manager-interface" target="1.8" />
+      <module name="updown-manager-pojo" target="1.8" />
+      <module name="updown-manager-service" target="1.8" />
+      <module name="updown-manager-web" target="1.8" />
+      <module name="updown-parent" target="1.8" />
+      <module name="updown-search" target="1.8" />
+      <module name="updown-search-interface" target="1.8" />
+      <module name="updown-search-service" target="1.8" />
+      <module name="updown-search-web" target="1.8" />
+      <module name="updown-sso" target="1.8" />
+      <module name="updown-sso-interface" target="1.8" />
+      <module name="updown-sso-service" target="1.8" />
+      <module name="updown-sso-web" target="1.8" />
+      <module name="updown-user" target="1.8" />
+      <module name="updown-user-interface" target="1.8" />
+      <module name="updown-user-service" target="1.8" />
+      <module name="updown-user-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

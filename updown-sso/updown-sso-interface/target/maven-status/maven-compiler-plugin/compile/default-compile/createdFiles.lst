@@ -1,0 +1,3 @@
+com\updown\sso\service\UserExitService.class
+com\updown\sso\service\UserLoginService.class
+com\updown\sso\service\UserRegisterService.class

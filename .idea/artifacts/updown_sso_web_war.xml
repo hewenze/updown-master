@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="updown-sso-web:war">
+    <output-path>$PROJECT_DIR$/updown-sso-web/target</output-path>
+    <root id="archive" name="updown-sso-web.war">
+      <element id="artifact" artifact-name="updown-sso-web:war exploded" />
+    </root>
+  </artifact>
+</component>

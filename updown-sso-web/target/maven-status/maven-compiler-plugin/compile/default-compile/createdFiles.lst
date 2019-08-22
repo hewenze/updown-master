@@ -1,0 +1,3 @@
+com\updown\sso\controller\UserLoginController.class
+com\updown\sso\controller\UserRegisterController.class
+com\updown\sso\controller\UserExitController.class

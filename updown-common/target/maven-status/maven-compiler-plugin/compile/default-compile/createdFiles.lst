@@ -1,0 +1,4 @@
+com\updown\common\pojo\UpdownResult.class
+com\updown\common\utils\CookieUtils.class
+com\updown\common\pojo\UserInfo.class
+com\updown\common\utils\JsonUtils.class
